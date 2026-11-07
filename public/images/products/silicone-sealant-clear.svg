@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+<defs>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f6f9"/><stop offset=".55" stop-color="#c3cad5"/><stop offset="1" stop-color="#8f99a8"/></linearGradient>
+<linearGradient id="metalV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a7afbc"/><stop offset=".4" stop-color="#f4f6f9"/><stop offset="1" stop-color="#8f99a8"/></linearGradient>
+<linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3d4555"/><stop offset="1" stop-color="#1a1e27"/></linearGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2545b"/><stop offset="1" stop-color="#b5161e"/></linearGradient>
+<linearGradient id="redH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b5161e"/><stop offset=".35" stop-color="#f2545b"/><stop offset="1" stop-color="#a5171e"/></linearGradient>
+<linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f62b3"/><stop offset="1" stop-color="#10274e"/></linearGradient>
+<linearGradient id="navyH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10274e"/><stop offset=".35" stop-color="#2f62b3"/><stop offset="1" stop-color="#10274e"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6d77a"/><stop offset="1" stop-color="#c99a2e"/></linearGradient>
+<radialGradient id="glass" cx=".4" cy=".35" r=".75"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#dfe6f0"/><stop offset="1" stop-color="#9fb0c8"/></radialGradient>
+<radialGradient id="silver" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#c9d0da"/><stop offset="1" stop-color="#7f8898"/></radialGradient>
+<pattern id="dia" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M0 11 11 0 22 11 11 22Z" fill="none" stroke="#e3262f" stroke-width="1.2" opacity=".8"/></pattern>
+</defs>
+<rect width="400" height="400" fill="#f5f6f8"/>
+<circle cx="200" cy="195" r="160" fill="#e7eaef"/>
+<ellipse cx="210" cy="336" rx="90" ry="12" fill="#10274e" opacity=".10"/>
+<g transform="rotate(-14 200 200)">
+<path d="M190 106L197 36H203L210 106Z" fill="#f4f6f9" stroke="#c9d0da" stroke-width="2"/>
+<rect x="182" y="98" width="36" height="16" rx="3" fill="#fff" stroke="#c9d0da" stroke-width="2"/>
+<path d="M156 132L176 112H224L244 132Z" fill="#e2e6ec" stroke="#c9d0da" stroke-width="2"/>
+<rect x="156" y="130" width="88" height="190" rx="6" fill="#f7f8fa" stroke="#c9d0da" stroke-width="2"/>
+<rect x="156" y="170" width="88" height="104" fill="url(#redH)"/>
+<text x="200" y="210" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">BondX</text>
+<text x="200" y="232" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5" fill="#fff" text-anchor="middle">SILICONE</text>
+<rect x="176" y="244" width="48" height="16" rx="3" fill="#fff"/>
+<text x="200" y="256" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" fill="#a5171e" text-anchor="middle">CLEAR</text>
+<rect x="166" y="138" width="10" height="174" rx="5" fill="#fff" opacity=".9"/>
+<rect x="158" y="310" width="84" height="10" rx="3" fill="#d9dde4"/>
+</g>
+</svg>

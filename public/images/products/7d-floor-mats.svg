@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="800" height="800">
+<defs>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f6f9"/><stop offset=".55" stop-color="#c3cad5"/><stop offset="1" stop-color="#8f99a8"/></linearGradient>
+<linearGradient id="metalV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a7afbc"/><stop offset=".4" stop-color="#f4f6f9"/><stop offset="1" stop-color="#8f99a8"/></linearGradient>
+<linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3d4555"/><stop offset="1" stop-color="#1a1e27"/></linearGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2545b"/><stop offset="1" stop-color="#b5161e"/></linearGradient>
+<linearGradient id="redH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b5161e"/><stop offset=".35" stop-color="#f2545b"/><stop offset="1" stop-color="#a5171e"/></linearGradient>
+<linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f62b3"/><stop offset="1" stop-color="#10274e"/></linearGradient>
+<linearGradient id="navyH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10274e"/><stop offset=".35" stop-color="#2f62b3"/><stop offset="1" stop-color="#10274e"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6d77a"/><stop offset="1" stop-color="#c99a2e"/></linearGradient>
+<radialGradient id="glass" cx=".4" cy=".35" r=".75"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#dfe6f0"/><stop offset="1" stop-color="#9fb0c8"/></radialGradient>
+<radialGradient id="silver" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#c9d0da"/><stop offset="1" stop-color="#7f8898"/></radialGradient>
+<pattern id="dia" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M0 11 11 0 22 11 11 22Z" fill="none" stroke="#e3262f" stroke-width="1.2" opacity=".8"/></pattern>
+</defs>
+<rect width="400" height="400" fill="#f3f6fb"/>
+<circle cx="200" cy="195" r="160" fill="#e3eaf6"/>
+<ellipse cx="200" cy="332" rx="125" ry="12" fill="#10274e" opacity=".10"/>
+<path d="M238 132L328 126L340 288L250 294Z" fill="url(#dark)" stroke="#2b3240" stroke-width="14" stroke-linejoin="round"/>
+<path d="M250 144L318 139L328 278L260 282Z" fill="#232833" stroke="#e3262f" stroke-width="2" stroke-dasharray="7 5" stroke-linejoin="round"/>
+<path d="M86 102L232 92L252 302L76 312Z" fill="url(#dark)" stroke="#2b3240" stroke-width="14" stroke-linejoin="round"/>
+<path d="M100 116L220 108L238 290L92 298Z" fill="#232833" stroke="#e3262f" stroke-width="2" stroke-dasharray="7 5" stroke-linejoin="round"/>
+<rect x="166" y="232" width="58" height="44" rx="8" fill="url(#metal)" opacity=".9"/>
+<rect x="172" y="239" width="46" height="3" rx="1.5" fill="#8f99a8"/><rect x="172" y="248" width="46" height="3" rx="1.5" fill="#8f99a8"/><rect x="172" y="257" width="46" height="3" rx="1.5" fill="#8f99a8"/><rect x="172" y="266" width="46" height="3" rx="1.5" fill="#8f99a8"/>
+</svg>

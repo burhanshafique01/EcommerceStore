@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* Faisal Hardware palette: deep industrial navy + signal red + steel neutrals */
+@theme {
+  --color-brand-50: #eef3fb;
+  --color-brand-100: #d6e2f4;
+  --color-brand-200: #adc4e8;
+  --color-brand-500: #2a5aa8;
+  --color-brand-600: #1d4589;
+  --color-brand-700: #163569;
+  --color-brand-800: #10274e;
+  --color-brand-900: #0b1b37;
+  --color-accent-50: #fdeeee;
+  --color-accent-500: #e3262f;
+  --color-accent-600: #c81e26;
+  --color-accent-700: #a5171e;
+  --color-steel-50: #f6f7f9;
+  --color-steel-100: #eceef2;
+  --color-steel-200: #d9dde4;
+  --color-steel-400: #9aa3b2;
+  --color-steel-500: #6b7486;
+  --color-steel-700: #3a4150;
+  --color-steel-900: #1a1e27;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Barlow Condensed", "Inter", ui-sans-serif, sans-serif;
+}
+
+body {
+  @apply bg-steel-50 text-steel-900 antialiased;
+}
