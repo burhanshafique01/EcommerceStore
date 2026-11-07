@@ -28,7 +28,7 @@ function SearchBar({ className = '' }) {
         type="search"
         value={q}
         onChange={(e) => setQ(e.target.value)}
-        placeholder="Search brake pads, filters, pliers, tape…"
+        placeholder="Search pliers, tape, wrenches, brake pads…"
         className="min-w-0 flex-1 rounded-l-md border border-r-0 border-steel-200 bg-white px-4 py-2.5 text-sm outline-none placeholder:text-steel-400 focus:border-brand-500 focus:ring-2 focus:ring-brand-100"
       />
       <button
