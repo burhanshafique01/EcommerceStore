@@ -1,0 +1,13 @@
+# Netlify build settings: every push to main rebuilds and publishes the site.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Send every page address to the React app (shop, product and cart pages).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
